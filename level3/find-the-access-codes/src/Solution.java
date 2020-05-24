@@ -1,3 +1,10 @@
+/// Source : Google FooBar
+/// Author : liuyubobobo
+/// Time   : 2020-05-22
+
+/// Dynamic Programming
+/// Time Complexity: O(n^2)
+/// Space Complexity: O(n)
 public class Solution {
 
     public static int solution(int[] l) {

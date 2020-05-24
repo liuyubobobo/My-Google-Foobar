@@ -1,3 +1,10 @@
+/// Source : Google FooBar
+/// Author : liuyubobobo
+/// Time   : 2020-05-22
+
+/// Linear Scan
+/// Time Complexity: O(n)
+/// Space Complexity: O(n)
 public class Solution {
 
     public static String solution(String x) {

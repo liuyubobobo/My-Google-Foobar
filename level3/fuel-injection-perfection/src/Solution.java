@@ -1,5 +1,13 @@
+/// Source : Google FooBar
+/// Author : liuyubobobo
+/// Time   : 2020-05-22
+
 import java.math.BigInteger;
 
+
+/// Greedy
+/// Time Complexity: O(logx)
+/// Space Complexioty: O(logx)
 public class Solution {
 
     public static int solution(String x) {

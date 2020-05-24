@@ -1,6 +1,14 @@
+/// Source : Google FooBar
+/// Author : liuyubobobo
+/// Time   : 2020-05-22
+
 import java.util.LinkedList;
 import java.util.Queue;
 
+
+/// BFS
+/// Time Complexity: O(m * n * 2)
+/// Space Complexity: O(m * n * 2)
 public class Solution {
 
     private static int[][] dirs = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};

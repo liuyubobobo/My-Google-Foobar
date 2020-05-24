@@ -1,3 +1,11 @@
+/// Source : Google FooBar
+/// Author : liuyubobobo
+/// Time   : 2020-05-23
+
+
+/// DFS
+/// Time Complexity: O(num_buns ^ num_buns)
+/// Space Complexity: O(num_bums * C(num_buns, num_buns - num_required + 1))
 import java.util.ArrayList;
 
 public class Solution {

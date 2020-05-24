@@ -1,8 +1,16 @@
+/// Source : Google FooBar
+/// Author : liuyubobobo
+/// Time   : 2020-05-22
+
 import java.util.LinkedList;
 import java.util.TreeSet;
 import java.util.TreeMap;
 import java.util.Queue;
 
+
+/// BFS
+/// Time Complexity: O(x_dim * y_dim)
+/// Space Complexity: O(x_dim * y_dim)
 public class Solution {
 
     private static class Pair implements Comparable<Pair>{
@@ -166,6 +174,8 @@ public class Solution {
         int[] guard_position3 = {1, 4};
         System.out.println(Solution.solution(dimensions3, your_position3, guard_position3, 11));
         // 25? 27?
+        // I'm not sure the correct ouput of this data
+        // My algorithm gives 25
 
         int[] dimensions4 = {10, 10};
         int[] your_position4 = {4, 4};

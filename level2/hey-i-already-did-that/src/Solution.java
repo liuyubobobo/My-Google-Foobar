@@ -1,9 +1,14 @@
-import com.sun.deploy.util.StringUtils;
+/// Source : Google FooBar
+/// Author : liuyubobobo
+/// Time   : 2020-05-22
 
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.HashSet;
 
+
+/// Using HashSet
+/// Time Complexity: O(|res| * |s|)
+/// Space Complexity: O(|res| * |s|)
 public class Solution {
 
     public static int solution(String n, int b) {

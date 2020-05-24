@@ -1,8 +1,17 @@
+/// Source : Google FooBar
+/// Author : liuyubobobo
+/// Time   : 2020-05-23
+
 import java.math.BigDecimal;
 import java.math.BigInteger;
 
 
-// https://math.stackexchange.com/questions/2052179/how-to-find-sum-i-1n-left-lfloor-i-sqrt2-right-rfloor-a001951-a-beatty-s/2053713#2053713
+/// Math
+/// See here for details:
+/// https://math.stackexchange.com/questions/2052179/how-to-find-sum-i-1n-left-lfloor-i-sqrt2-right-rfloor-a001951-a-beatty-s/2053713#2053713
+///
+/// Time Complexity: O(logs)?
+/// Space Complexity: O(h * |s|)
 public class Solution {
 
     private static BigDecimal sqrt2 = new BigDecimal("1.4142135623730950488016887242096980785696718753769480731766797379907324784621070388503875343276415727");

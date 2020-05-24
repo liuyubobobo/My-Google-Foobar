@@ -1,3 +1,11 @@
+/// Source : Google FooBar
+/// Author : liuyubobobo
+/// Time   : 2020-05-22
+
+/// Mathematics
+/// Time Complexity: O(log(res))
+/// Space Complexity: O(1)
+
 public class Solution {
 
     public static String solution(long x, long y) {
