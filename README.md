@@ -18,7 +18,7 @@
 
 | Level | Problem | My Solution |
 | :---: | :--- | :---: |
-| 1 | [I Love Lance & Janice](level1/1-i-love-lance-janice/) | [Java](level1/i-love-lance-janice/src/Solution.java) |
+| 1 | [I Love Lance & Janice](level1/i-love-lance-janice/) | [Java](level1/i-love-lance-janice/src/Solution.java) |
 | 2 | [Bunny Prisoner Locating](level2/bunny-prisoner-locating/) | [Java](level2/bunny-prisoner-locating/src/Solution.java) |
 | | [Hey, I Already Did That!](level2/hey-i-already-did-that/) | [Java](level2/hey-i-already-did-that/src/Solution.java) |
 | 3 | [Prepare the Bunnies' Escape](level3/prepare-the-bunnies-escape/) | [Java](level3/prepare-the-bunnies-escape/src/Solution.java) |
